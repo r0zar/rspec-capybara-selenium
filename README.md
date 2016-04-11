@@ -13,6 +13,8 @@ Ruby v2.2 or newer
 
 `gem install bundler`
 
+`bundle install`
+
 ## Usage
 
 `rspec`
