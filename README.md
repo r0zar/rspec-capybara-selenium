@@ -3,7 +3,9 @@ for testing web applications simply
 
 ## Requirements
 
-Ruby v2.2 or newer
+* Ruby v2.4 or newer
+
+* Firefox 45 or newer
 
 ## Getting Started
 
